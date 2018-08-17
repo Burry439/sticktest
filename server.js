@@ -4,7 +4,7 @@ var app = express();
 app.use(express.static('test/home.html'));
 app.use(express.static('node_modules'));
 
-app.use(express.static('test'));
+app.use(express.static('Stick Adventure Demo'));
 app.use(express.static('node_modules'));
 
 

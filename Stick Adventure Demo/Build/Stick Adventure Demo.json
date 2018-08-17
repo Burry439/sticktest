@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Stick Adventure Demo.data.unityweb",
+"asmCodeUrl": "Stick Adventure Demo.asm.code.unityweb",
+"asmMemoryUrl": "Stick Adventure Demo.asm.memory.unityweb",
+"asmFrameworkUrl": "Stick Adventure Demo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
